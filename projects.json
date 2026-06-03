@@ -1,6 +1,18 @@
 {
     "projects": [
         {
+            "name": "Sd",
+            "description": "Sem descricao disponivel.",
+            "url": "",
+            "gh": "https://github.com/JockaMt/sd",
+            "categories": [
+                "other"
+            ],
+            "technologies": [
+                "Java"
+            ]
+        },
+        {
             "name": "Jockamt",
             "description": "Repositório desde portifólio, meu projeto de site pessoal e readme personalizado.",
             "url": "https://jockamt.github.io/JockaMt/",
@@ -199,6 +211,7 @@
         "CSS",
         "Dockerfile",
         "HTML",
+        "Java",
         "JavaScript",
         "Mako",
         "Python",
